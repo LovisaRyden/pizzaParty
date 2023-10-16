@@ -1,8 +1,9 @@
-# Red Base Pizza
+# Brooklyn Bridge
 
  - tomato sauce
  - olives
  - pepperoni
  - parmesan
  - mozarella
- - red bell pepper
+ - green bell pepper
+ - white onion
